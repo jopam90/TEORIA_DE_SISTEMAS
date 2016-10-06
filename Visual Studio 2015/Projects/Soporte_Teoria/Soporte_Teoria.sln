@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
-MinimumVisualStudioVersion = 10.0.40219.1
+# Visual Studio 2012
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Soporte_Teoria", "..\..\WebSites\Soporte_Teoria\", "{2B31DBA6-0960-46A8-9D94-32F8439840E0}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_50568"
 		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\Soporte_Teoria\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50568\"
@@ -21,7 +19,6 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Soporte_Teoria", "..\..\Web
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "50568"
-		SlnRelativePath = "..\..\WebSites\Soporte_Teoria\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
