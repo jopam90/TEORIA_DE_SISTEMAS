@@ -7,7 +7,7 @@
             <div id="agrupar">
                  <nav id="menu">
                         <ul>
-				            <li><a href="WfrmLogIn.aspx"><span class=""><i class = "icon icon-key"></i></span>Ingresar</a></li>
+				            <li><a href="Default.aspx"><span class=""><i class = "icon icon-key"></i></span>Ingresar</a></li>
 				            <li><a href="#"><span class=""><i class = "icon icon-newspaper"></i></span>Sobre Nosotros</a>
 					            <ul>
 						            <li><a href="#">Mision, Vision y Valores</a></li>
