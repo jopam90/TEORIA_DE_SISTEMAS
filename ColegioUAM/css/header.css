@@ -1,0 +1,73 @@
+#colheader{
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+#NombreColegio{
+    
+font-family: 'Oxygen Mono', Tahoma, Arial, sans-serif;
+font-size: 50px;
+}
+CSS
+
+* {
+	margin:0;
+	padding:0;
+}
+
+body {
+	background:#FFFFFA;
+}
+
+header {
+	width:100%;
+}
+
+header nav {
+	width:90%;
+	max-width:1000px;
+	margin:20px auto;
+	background:#FFFFFF;
+        border-bottom-style: solid;
+        border-bottom-color: #037E8C;
+        border-width: 5px;
+}
+
+.menu_bar {
+	display:none;
+}
+
+header nav ul {
+	overflow:hidden;
+	list-style:none;
+}
+
+header nav ul li {
+	float:left;
+}
+
+header nav ul li a {
+	color:#666666;
+	padding:20px;
+	display:block;
+	text-decoration:none;
+}
+
+header nav ul li span {
+	margin-right:10px;
+}
+
+header nav ul li a:hover {
+	background:#037E8C;
+}
+
+section {
+	padding:20px;
+}
+
+
+#login{
+    float: right;
+}
+
